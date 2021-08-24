@@ -7,7 +7,9 @@
         <version>2.4.21</version>
         <relativePath>../..</relativePath>
     </parent>
+    <groupId>com.rightontrek</groupId>
     <artifactId>swagger-codegen-maven-plugin</artifactId>
+    <version>2.4.21-SNAPSHOT</version>
     <name>swagger-codegen (maven-plugin)</name>
     <packaging>maven-plugin</packaging>
     <description>maven plugin to build modules from swagger codegen</description>
